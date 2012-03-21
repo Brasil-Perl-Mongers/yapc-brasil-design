@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3039"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   width="374.69437"
+   height="116.39904"
+   sodipodi:docname="logo-yapc-brasil-2012.svg">
+  <metadata
+     id="metadata3045">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3043" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     id="namedview3041"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     units="px"
+     inkscape:zoom="1.3558824"
+     inkscape:cx="96.417993"
+     inkscape:cy="22.587051"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3039">
+    <sodipodi:guide
+       orientation="0,1"
+       position="61.418051,106.31606"
+       id="guide4964" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="365.59057,144.87959"
+       id="guide4966" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="9.0536256,-8.73817"
+       id="guide4970" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="103.89094,158.08164"
+       id="guide4972" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="430.18161,10.437535"
+       id="guide4974" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="114.95384,188.32025"
+       id="guide4976" />
+  </sodipodi:namedview>
+  <path
+     sodipodi:type="arc"
+     style="fill:#b20000;fill-opacity:0.80000001;fill-rule:nonzero;stroke:none"
+     id="path4982"
+     sodipodi:cx="-72.277657"
+     sodipodi:cy="89.267189"
+     sodipodi:rx="49.414318"
+     sodipodi:ry="48.676788"
+     d="m -22.863338,89.267189 a 49.414318,48.676788 0 1 1 -98.828632,0 49.414318,48.676788 0 1 1 98.828632,0 z"
+     transform="matrix(0.95007553,0,0,0.96447066,125.61657,-27.08141)" />
+  <g
+     id="g5064"
+     transform="matrix(1.0432741,0,0,1.0432741,-0.49157805,3.1483604)">
+    <path
+       id="path4107"
+       d="m 62.266611,92.291759 c -0.695788,-1.013284 -2.209258,-2.9326 -3.363252,-4.265157 l -2.098179,-2.42283 1.251367,3.23044 c 1.203445,3.106729 4.249176,6.525844 5.076347,5.698665 0.219339,-0.219339 -0.170487,-1.227842 -0.866283,-2.241118 z"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4105"
+       d="m 49.915539,91.598878 c 1.149948,-1.36663 2.090813,-3.236019 2.090813,-4.154175 0,-1.300301 -0.624953,-0.850922 -2.826635,2.032536 -1.55465,2.036057 -2.826635,3.90544 -2.826635,4.154184 0,1.169968 1.668958,0.217748 3.562457,-2.032545 z"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4103"
+       d="m 56.032038,88.679975 c 0.01365,-2.835463 -1.332193,-4.317435 -2.101102,-2.313698 -0.267763,0.697775 -0.236404,2.603646 0.0697,4.235259 0.660067,3.518459 2.011433,2.240157 2.031405,-1.921561 z"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4101"
+       d="M 44.737861,84.563021 C 40.018915,81.38476 33.285934,74.161067 31.345109,70.194167 28.693499,64.774473 28.496281,58.627502 30.827407,54.058133 c 0.903909,-1.771824 4.452088,-7.210182 7.884827,-12.085256 6.855624,-9.736128 9.704041,-15.246113 10.427167,-20.170305 0.462583,-3.15001 0.439566,-3.129902 -0.924431,0.80761 -1.129071,3.259361 -3.351267,6.025369 -11.523579,14.343616 -11.590537,11.797521 -13.735057,15.356045 -13.744111,22.80645 -0.0073,6.268257 1.037279,9.878929 4.24681,14.675067 2.827742,4.225602 8.979381,8.429455 15.120941,10.333218 4.666113,1.446398 4.852097,1.430625 2.42283,-0.205512 z"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4099"
+       d="m 70.19345,83.706389 c 5.839589,-2.762633 11.803861,-8.506033 14.6989,-14.154596 1.626405,-3.173286 2.129982,-5.362369 2.159581,-9.38774 C 87.114844,51.607876 83.66144,46.941287 69.837964,36.902724 60.081969,29.817965 58.984613,28.68257 57.585323,24.225403 c -1.561853,-4.974996 -2.34853,-5.171628 -2.34853,-0.58702 0,2.297828 -1.119202,10.638421 -2.487116,18.534652 -2.868898,16.560611 -2.918954,27.123344 -0.165326,34.888968 1.370821,3.865932 1.925439,4.508887 4.725642,5.478342 1.74489,0.6041 3.705533,1.631356 4.356975,2.282799 1.671422,1.671422 3.000967,1.497285 8.526482,-1.116755 z"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4095"
+       d="m 47.733804,74.123505 c -3.89436,-8.009877 -4.203021,-9.076294 -4.14904,-14.33508 0.04951,-4.819575 0.520246,-6.661556 3.103347,-12.142329 3.404302,-7.223185 4.993921,-14.266248 5.650621,-25.035914 l 0.443209,-7.268492 -1.100999,6.460882 c -1.524526,8.946268 -2.922499,12.558741 -8.86663,22.912101 -3.053574,5.318654 -5.369897,10.392303 -5.671144,12.422037 -1.060489,7.145282 3.95645,18.615478 10.345316,23.652437 4.506336,3.552782 4.556093,2.200706 0.24532,-6.665642 z"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#b20000;fill-opacity:0.80000001"
+     d="m 72.472878,84.799334 c 3.244961,-3.745813 6.10044,-11.598739 6.10044,-16.776978 0,-7.086821 -2.892416,-12.659268 -11.304639,-21.7792 -3.782422,-4.100632 -6.675617,-7.657216 -6.429313,-7.903521 1.341429,-1.341429 19.496499,16.967297 21.978585,22.164612 3.801186,7.959416 0.109102,17.702268 -9.140349,24.120045 -2.347049,1.628515 -2.480669,1.647928 -1.204724,0.175042 z"
+     id="path4097" />
+  <text
+     xml:space="preserve"
+     style="font-size:40.85724640000000107px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#b20000;fill-opacity:0.80000001;stroke:none;font-family:Sans"
+     x="240.79448"
+     y="43.088001"
+     id="text3059"
+     sodipodi:linespacing="108%"><tspan
+       sodipodi:role="line"
+       x="240.79448"
+       y="43.088001"
+       style="font-size:44px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:108%;text-anchor:middle;fill:#b20000;fill-opacity:0.80000001;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+       id="tspan4932">YAPC::Brasil</tspan><tspan
+       sodipodi:role="line"
+       x="240.79448"
+       y="72.052078"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:108%;text-anchor:middle;fill:#b20000;fill-opacity:0.80000001;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+       id="tspan4962"> 5 e 6 · outubro · 2012</tspan><tspan
+       sodipodi:role="line"
+       x="240.79448"
+       y="105.97004"
+       style="font-size:33px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:108%;text-anchor:middle;fill:#b20000;fill-opacity:0.80000001;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+       id="tspan4934">São Paulo - SP</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:19.62275314px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="119.93499"
+     y="106.28673"
+     id="text3063"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3065"
+       x="119.93499"
+       y="106.28673"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></text>
+</svg>
